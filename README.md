@@ -6,5 +6,5 @@ What is the **the growth mindset**?
 2. you will be ready to accept challenges.
 3. you will see critisim from another positive way.
 
-if you want to know more about this topic, please visit this site:
+If you want to know more about this topic, please visit this site:
 [growthmindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
