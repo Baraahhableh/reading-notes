@@ -10,6 +10,7 @@ No. | Reading
 ----- | -------
 1 |[introduction to html and javascript](link)
 2 | HTML Text, CSS Introduction, and Basic JavaScript Instructions](read2.md)
+6 | [object] | (https://baraahhableh.github.io/reading-notes/read06)
 
 
 
