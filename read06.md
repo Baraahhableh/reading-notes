@@ -16,6 +16,7 @@ Programmers use a lot of name/value pairs:
 
 
 ### CREATING· OBJECTS USING LITERAL NOTATION 
+______________________________________________
 
 c3/ j s/obj ect-1itera1 . j s 
 var hote l = { 
